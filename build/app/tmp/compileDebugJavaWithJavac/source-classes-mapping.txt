@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/hk/status_saver/BuildConfig.java
+ com.hk.status_saver.BuildConfig

@@ -1,0 +1,2 @@
+com/ivehement/saf/BuildConfig.java
+ com.ivehement.saf.BuildConfig
